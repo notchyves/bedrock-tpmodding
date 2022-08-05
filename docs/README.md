@@ -4,7 +4,7 @@ Welcome to this webpage! We want to teach you everything we can about making mod
 
 ## Links 🔗
 
-Getting Started
+[Getting Started](https://notjudahrr.github.io/bedrock-tpmodding/getting_started)
 
 Animation Controllers
 
